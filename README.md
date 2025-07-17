@@ -1,4 +1,4 @@
-# Advanced Targeted Password Wordlist Generator
+# Advanced Custom Password Wordlist Generator
 
 ## Project Purpose
 This tool is designed to generate **highly focused, personalized password wordlists** using **real-world data** such as names, DOBs, pet names, and other personal identifiers. Instead of brute-forcing with millions of generic entries, this tool generates **fewer but higher-probability passwords** for **red teaming, dictionary attacks, and credential stuffing.**
