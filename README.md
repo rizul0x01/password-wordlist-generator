@@ -14,6 +14,17 @@ It simulates how real users build passwords, making it effective for penetration
 
 ## Usage
 
+### Install dependencies
+It is highly recommended to use a Python virtual environment to avoid conflicts with your system's Python packages.
+
+```bash
+# Create a virtual environment
+python3 -m venv hash_myvenv
+
+# Activate the virtual environment
+source hash_myvenv/bin/activate
+```
+
 ### Manual Input
 ```bash
 python3 main.py --manual
