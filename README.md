@@ -14,6 +14,18 @@ It simulates how real users build passwords, making it effective for penetration
 
 ## Usage
 
+### To set up the project, follow these steps:
+
+### Extract the archive:**
+    ```bash
+    tar -xzf password-wordlist-generator.tar.gz
+    ```
+
+### Navigate to the extracted directory:**
+    ```bash
+    cd password-wordlist-generator
+    ```
+
 ### Install dependencies
 It is highly recommended to use a Python virtual environment to avoid conflicts with your system's Python packages.
 
